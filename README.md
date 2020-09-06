@@ -1,3 +1,5 @@
 # iSpyHowdyHack
 
-Add all of our app code here!
+HowdyHack project for 2020, created by Kelly Yang, Ethan Huynh, Dien Chau, and Yuning Zhang
+
+Created on Visual Studio 2019 using the ASP.NET Core Web Application template
